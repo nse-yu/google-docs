@@ -1,0 +1,11 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/.idea/workspace.xml
+/build/
+/gradle/
+/.gradle/
+/gradlew
+/gradlew.bat
+/src/main/resources/credentials.json
+/src/main/resources/token.properties
+.idea

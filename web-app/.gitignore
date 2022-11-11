@@ -1,0 +1,12 @@
+HELP.md
+.gradle
+gradlew
+gradlew.bat
+.idea
+gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+src/main/resources/static
+src/main/resources/credentials.json
